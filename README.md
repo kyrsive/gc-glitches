@@ -7,3 +7,5 @@ to use this inside of strudel, enter the following line in your strudel pattern:
 samples('github:kyrsive/gc-glitches')
 ```
 please support the wonderful glitch.cool collective responsible for all these samples by grabbing the full pack through [here](https://www.glitch.cool/projects/glitch-with-friends-samples-vol-1)
+
+licensing information available [here](./LICENSE.md)
